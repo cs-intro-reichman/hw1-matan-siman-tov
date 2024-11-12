@@ -6,7 +6,7 @@ public class Print5 {
         int i = 0;
         while (i!=6){
             System.out.println(i);
-            i=i+1;
+            i=i++;
         }
         System.out.println("Done");
     }
